@@ -12,34 +12,35 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: C#
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
-
-- name: Unity
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
-- name: Git
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Scrum/Kanban
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
-
-- name: Jenkins
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
-- name: Scripting
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+  logo: /images/sections/skills/c_sharp.png
+  summary: "Know basic C# programming. Used for contest programming and problem solving."
+  url: "https://dotnet.microsoft.com/en-us/languages/csharp"
 
 - name: C++
   logo: /images/sections/skills/c++.png
   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  url: "https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170"
+
+- name: Unity
+  logo: /images/sections/skills/unity.png
+  summary: "Experience in 2D and 3D games, both developing gameplay and configuring and adapting the project to multiple platforms."
+  url: "https://unity.com/"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly, use Github and Bitbucket with some Git Clinets like SourceTree or Fork."
+  url: "https://git-scm.com/"
+
+- name: Scrum / Kanban
+  logo: /images/sections/skills/scrum.png
+  summary: "Experience of agile methodologies in long lasting processes and organization through Kanban using Atlassian's suite (Jira, Confluence, Bitbucket...)"
+  url: "https://www.scrum.org/learning-series/what-is-scrum/"
+
+- name: Jenkins
+  logo: /images/sections/skills/jenkins.png
+  summary: "Basic knowledge to create jobs and pipelines to automate builds or other development processes."
+  url: "https://www.jenkins.io/"
+
+- name: Scripting
+  logo: /images/sections/skills/script.png
+  summary: "Capable of writing bash/shell scripts."
