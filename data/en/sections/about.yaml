@@ -14,12 +14,32 @@ designation: Gameplay developer
 #   name: Example Co.
 #   url: "https://www.example.com"
 
-# your resume. this file path should be relative to you "static" directory
-# Dreprecated. Use resourceLinks instead.
-# resume: "files/resume.pdf"
-
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'Welcome! I’m a video game developer especialized in multiplatform game for Unity.I’ve worked on several published games, as well as a couple of university projects.<br>
+  I have led a small porting team to implement the necessary features, advising the gameplay team to coordinate the needs of the platforms with those of the game.<br>
+  I have also worked with CD/CI systems like Jenkins to improve the efficiency of deliveries or monitor the status of different projects.<br>
+  I work with current major platforms: <br>
+
+      + Nintendo Switch
+
+      + PS4
+
+      + PS5
+
+      + Xbox One
+
+      + Xbox Series
+
+      + Steam
+
+      + Epic
+
+      + GOG
+
+      + Stadia
+
+  '
+
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -61,9 +81,9 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "CV - en"
-  url: "files/resume_en.pdf"
+  url: "files/CV_en.pdf"
 - title: "CV - es"
-  url: "files/resume_es.pdf"
+  url: "files/CV_es.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
