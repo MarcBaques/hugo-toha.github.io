@@ -3,7 +3,7 @@ section:
   name: Projects
   id: projects
   enable: true
-  weight: 5
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -13,52 +13,70 @@ buttons:
 - name: All
   filter: "all"
 - name: Professional
-  filter: "professional"
+  filter: "Professional"
 - name: Academic
-  filter: "academic"
+  filter: "Academic"
 - name: Hobby
-  filter: "hobby"
+  filter: "Hobby"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: My friend Peppa Pig
+  # logo: /images/sections/projects/mfpp.jpg
+  role: Gameplay programmer
+  url: "https://www.youtube.com/watch?v=y0Tv_Sr5_-o&ab_channel=OutrightGames"
+  summary: Have a fun-filled adventure by becoming Peppa Pig’s new friend in My Friend Peppa Pig! Create and dress your character, ring Peppa’s doorbell, and begin a story that’s all up to you.
+  tags: ["Professional", "Switch", "Steam", "PS4/PS5", "Xbox One/Series", "Stadia"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+- name: PJ Maks Heroes of the night
+  # logo: /images/sections/projects/tensorflow.png
+  role: Gameplay programmer
+  url: "https://www.youtube.com/watch?v=PSnnumhqRu4&ab_channel=OutrightGames"
+  summary: Set off from Mission Control HQ on a platforming adventure for little heroes. 
+          Use your superpowers like Catboy’s speed, Owlette’s flying, and Gekko’s muscles to stop the night-time baddies.
+  tags: ["Professional", "Switch", "Steam", "PS4/PS5", "Xbox One/Series", "Stadia"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Bratz Flaunt your fashion
+# logo: /images/sections/projects/tensorflow.png
+  role: Porting programmer
+  url: "https://www.youtube.com/watch?v=sY2JXHBsGhc&ab_channel=OutrightGames"
+  summary: Play as your favorite Bratz character and begin your globe-trotting adventure to become the world’s best fashion reporter.
+  tags: ["Professional", "Switch", "Steam/Epic", "PS4/PS5", "Xbox One/Series"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Curse of the Sea Rats
+  # logo: /images/sections/projects/no-code.png
+  role: Porting programmer
+  url: "https://www.youtube.com/watch?v=imXgRzd7dYM&ab_channel=NintendoofAmerica"
+  summary: Curse of the Sea Rats is an epic hand-drawn ratoidvania starring a group of heroes transformed into rats by a pirate witch.
+          Help Douglas, Buffalo, Akane, and Bussa to rescue the Admiral’s son, capture the evil pirate Flora Burn and break the magic spell.
+  tags: ["Professional", "Switch", "Steam/Epic/GOG", "PS4/PS5", "Xbox One/Series"]
 
-- name: Toha
+- name: Peppa Pig World Adventures
   logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  role: Porting manager
+  url: "https://www.youtube.com/watch?v=jJeT2bBlX40&ab_channel=BANDAINAMCOEurope"
+  summary: Play in the bigger, wider world of Peppa Pig, and bring your family into the story! Make pizza in Italy, walk on Hollywood Boulevard, climb the Eiffel Tower and more on your world tour. Create your own unique and dazzling family home, and discover more characters, quests and fun than ever before!
+  tags: ["Professional", "Switch", "Steam/Epic", "PS4/PS5", "Xbox One/Series", "Microsoft Store"]
+
+- name: PJ Masks Power Heroes Migthy Alliance
+  # logo: /images/sections/projects/toha.png
+  role: Porting manager
+  url: "https://www.youtube.com/watch?v=gcjavjvmm4k&ab_channel=OutrightGames"
+  summary: Team up with the Power Heroes and rebuild PJ Power HQ. Hop into the Explorider, find the lost parts, and save the day!
+  tags: ["Professional", "Switch", "Steam/Epic", "PS4/PS5", "Xbox One/Series", "Microsoft Store"]
+
+# - name: CoreX
+#   logo: /images/sections/projects/toha.png
+#   role: Owner
+#   timeline: "Jun 2019 - Present"
+#   url: "https://www.example.com"
+#   summary: A Hugo theme for personal portfolio.
+#   tags: ["Academic", "Unity Editor", "Tool"]
+
+# - name: Hack n Slide
+#   logo: /images/sections/projects/toha.png
+#   role: Owner
+#   timeline: "Jun 2019 - Present"
+#   url: "https://www.example.com"
+#   summary: A Hugo theme for personal portfolio.
+#   tags: ["Academic", "Unity", "Mobile", "Ads"]
