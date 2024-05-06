@@ -16,7 +16,7 @@ degrees:
   institution:
     name: ENTI Escola de Noves Tecnologies Interactives
     url: "https://enti.cat/en/"
-    logo: /images/sections/education/tech_college.png
+    logo: /images/sections/education/enti.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/tech_college.png
   custonSections: #(optional)
@@ -33,7 +33,7 @@ degrees:
   institution:
     name: IES Escola de Mitjans Audiovisuals (EMAV)
     url: "https://www.emav.com/"
-    logo: /images/sections/education/university.jpg
+    logo: /images/sections/education/emav.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/university.jpg
   custonSections: #(optional)

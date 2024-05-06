@@ -52,7 +52,7 @@ projects:
   tags: ["Professional", "Switch", "Steam/Epic/GOG", "PS4/PS5", "Xbox One/Series"]
 
 - name: Peppa Pig World Adventures
-  logo: /images/sections/projects/toha.png
+  # logo: /images/sections/projects/toha.png
   role: Porting manager
   url: "https://www.youtube.com/watch?v=jJeT2bBlX40&ab_channel=BANDAINAMCOEurope"
   summary: Play in the bigger, wider world of Peppa Pig, and bring your family into the story! Make pizza in Italy, walk on Hollywood Boulevard, climb the Eiffel Tower and more on your world tour. Create your own unique and dazzling family home, and discover more characters, quests and fun than ever before!

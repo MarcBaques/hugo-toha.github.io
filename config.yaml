@@ -86,7 +86,7 @@ params:
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
-        facebook: true
+        # facebook: true
         twitter: true
         linkedin: true
         # reddit: true
