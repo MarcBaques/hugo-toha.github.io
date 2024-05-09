@@ -65,7 +65,7 @@ In automation systems we can simplify the logic because we only have to set as a
 ___
 ## Changes I would like
 - The addition of a searchable bar with filters for Build Profiles
-- Some visual changes  due to the active tag is occupying name space in editor that 
+- Some visual changes  due to the active tag of the Build Profile covering the name full name 
 - Maybe the addition of Addressables profiles or something in the Build Profiles just if you have the Addressables package
 - Adding a Switch Build Profile in Context Menu in the asset
 - Maybe the option to enable/disable Pre/Post-processing scripts of Unity like IPreprocessBuildWithReport

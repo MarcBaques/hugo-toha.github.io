@@ -80,7 +80,7 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "CV - en"
+- title: "Resume"
   url: "files/CV_en.pdf"
 - title: "CV - es"
   url: "files/CV_es.pdf"
